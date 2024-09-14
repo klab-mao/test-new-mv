@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "test-new-mv",
-    "slug": "snack-477068fe-b682-4ebe-bd72-12d1f7e8c8a2",
+    "slug": "test",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,8 +25,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "7ff9e996-3a9c-4fc4-8f99-539e53b0b0ac"
+        "projectId": "e5b2ba70-21a4-4bac-a347-700fcc3ab4e7"
       }
-    }
+    },
+    "owner": "klabchina"
   }
 }
