@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "test-new-mv",
+    "slug": "snack-477068fe-b682-4ebe-bd72-12d1f7e8c8a2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7ff9e996-3a9c-4fc4-8f99-539e53b0b0ac"
+      }
+    }
+  }
+}
